@@ -1180,6 +1180,7 @@ pre code {
 text-align: center;  
 width: 100px;
 height: 30px; 
+text-align: -webkit-match-parent;
   
 }
 
