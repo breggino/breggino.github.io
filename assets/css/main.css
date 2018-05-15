@@ -1166,6 +1166,7 @@ pre code {
 
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
 .main-footer {
+  text-align: center;
   padding: 15px 0;
   background-color: #efefef;
 }
@@ -1177,13 +1178,13 @@ pre code {
 }
 
 .main-footer .imgs {
-text-align: center;  
+
 width: 50px;
 height: 30px; 
-position:relative;
+position:absolute;
 display:inline-block;
 vertical-align:top;
-overflow:hidden;
+overflow:auto;
   
 }
 
