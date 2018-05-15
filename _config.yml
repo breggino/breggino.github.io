@@ -1,5 +1,5 @@
 title: Brayan Regino
-email: your-email@domain.com
+email: brayanreginos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,24 +11,24 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Brayan Regino # add your name
 author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+about-author: EStudiante de INgeniería de la UNiversidad De La Costa CUC, 7to Semestre.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: brayanreginos@gmail.com # Add your Email address
+phone: 00 # Add your Phone number
+website: brayanregino.ml # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+github: breggino # Add your Github handle
+twitter: '' # Add your Twitter handle
+facebook: BrayanRegino# Add your Facebook handle
+instagram: Brayanregino_# Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier:  # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
