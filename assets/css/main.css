@@ -1176,6 +1176,13 @@ pre code {
   font-size: 12px;
 }
 
+.main-footer .imgs {
+text-align: center;  
+width: 100px;
+height: 30px; 
+  
+}
+
 /* = = = = = = = = = = Post-Page Styles = = = = = = = = = = */
 .page-image {
   position: relative;
