@@ -1184,7 +1184,7 @@ height: 30px;
 position:absolute;
 display:inline-block;
 vertical-align:top;
-overflow:auto;
+overflow:hidden;
   
 }
 
